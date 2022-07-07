@@ -1,0 +1,10 @@
+| File name | description |
+|------|------|
+| /share/SARS/betacov.fasta | Beta Coronavirus |
+| /share/SARS/SARS-urbani.fasta | SARS Coronavirus from 2003 |
+| /share/SARS/mers.fasta | MERS Coronavirus |
+| /share/SARS/hku-bat.fasta | Bat coronavirus |
+| /share/SARS/nature-2013.fasta | Bat Coronavirus 2 |
+| /share/SARS/pangolin-cov.fasta | Coronavirus from pangolin |
+| /share/SARS/SARS-2020.fasta | SARS-2 Coronavirus from Wuhan |
+| /share/SARS/covid-patient-CA.fasta | SARS-2 Coronavirus from first patient in CA |

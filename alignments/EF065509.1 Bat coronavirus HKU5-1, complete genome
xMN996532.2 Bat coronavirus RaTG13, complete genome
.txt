@@ -1,0 +1,128 @@
+QGVPIRTH--SWLTS-LLTKMPQEKVSLAQPCRVSV--LECSSHLMRILLLE-SF-NFC-FVRRASVATASVMLLGIT------TGLPTLILW-TLLRLTL-V---VS---TL-R--AFLR-S-SL--------E--VISPQS-I--NT-C-----VA--KTANPL--LNL--LL-
+    ||    | |   ||         |          |     ||  |||  |  ||  |          ||   |       |   |     |    |  |   ||   || |  | |  | ||        |  ||   | |  |  |     |   |       ||   || 
+----IR--RPS-L--YLL---------L--------ITL-----LM--LLL-KS-VNF-NF----------VM---I-HFWVFIT---T----KT----T-KVGWKVSSEFTLVRIIA-L-LSMSLSLFLWTLKENRVI---SKILGN-SCLRILMV-ISK-----YILN-IRLLI
+  Score=48
+LIRDCTPRLMTLVNS--IYSLTDIVPQDVLITY-LSVI--TPHKWSPLMMA---LWS------VL----VLLPIKLEPL-S---YL--N-P-HLNPLR---K------SI-QPF---CLDILWVIIHRPI-GQV--VISTTRLSSY--RMAV--V---LF---------YMHS-IVFFTL--AHNK-IVLVKQISNPSRFGILLHQTVSLVLI--T-K-KPH--
+        | |  |   |     |     |    | |   |      |  |   |        |     |||  | ||  |   |   | | |  ||    |      |  | |   |          |  | |  |        |  | |   |   ||         |  | |  | |  |    |  |        | |    |    |   | | |    
+--------L-T--N-MKI-----I-----L---FL-V-LVT------L--ATCEL--YHYQECV-RGTTVLL--K-EP-CSSGTY-EGNSPFH--PL-ADNKFALTCFS-TQ-FAFAC----------P-DG-VKHV--------YQLR-A-RSVSPKLFIRQEEVQELY--SPI--F-LIIA---AI--V--------F-I----T----L-CFTLKRK--TE
+  Score=56
+LIRDCTPRLMTLVN-SI-YSLTDIVPQDVLITYLSVITPHKWSPLMMALWSV-LVLLPIKLEPLSYL-NPHL-NPLRKSIQPFCLDILWVI-IHRPIGQV--V-ISTTRL---------SSY-----RM--AVVLFY--MHSIVF---F--TLAHNKIVL---VKQIS----NPS--RFGILLHQT-V-S---LV---L-ITKKPH
+ ||    |       |  | |        |   |  ||      |   |    | ||  |    |   |    |        |      |  ||        | | ||           ||      |   |  |    | |      |  ||   |      |  ||    | |  |  | |    | |   |    | |     
+-IR----R------PS-LY-L--------L---L--IT------L---L---ML-LL--K----S--VN---FN--------F------V-MIH------FWVFI-TT--KTTKVGWKVSS-EFTLVR-IIA--L--LSM-S---LSLFLWTL---K---ENRV--ISKILGN-SCLR--I-L---MVISKYIL-NIRLLI-----
+  Score=51
+---L---IR-DC--T----PR-LMT-LVNSIYSLTDIVPQDVLITY-LS-VITPHKWSPLM-M--ALWSVL------VL-L---PIK-LEP-L-SYLNPHLNP-L---RK---SIQPFCL-DI----LWVIIHRPIGQVVISTTRLSSYRMAVVLFY-MHSIVFFT-LAHNKIV----LVKQISNPSR--FGILLHQTVSLVLI-TK-KPH
+   |   |  |   |    |  |   ||       |  ||   |   |  | |         |  |   |       |  |   ||  |   | |   | |   |   ||   |     | |     |   |  |     |          | |    |      | ||         |      |    |       |  |   |  |  
+TNKLKCLI-MD-PKTNEMHP-AL--RLV-------D--PQ---I--QL-AV-T--------RMENA---V-EHDQNNV-GLKVYPI-IL--RLGS---P-L--SLNMARKTLNS-----LED-KAFRL---I--P-----I----------A-V---QM------TKLA-----TTEEL------P--DEF-------V--V--VT-VK--
+  Score=50
+LTNFMDYVS---L-LNQVWQKQ-VNSSQEGTLAPVRPT---YA-YRPVQGNLQ-CPIKW-RCIYTFAGYTGTAT----EP----TKV---------LA--K--------QE-A-AR-----K-VC--LRLQEYG-R-----LDGFGL-R------LRYSTA--FEHNRYD---ASKSY---FY-TQ---TSSSSH-----E
+||| |       | |  |     |      |||    |   |  |       | |     |         || |    ||    |           ||  |        |  | |      | |   ||      |     |  |   |      | ||    |         |       |  |    |          |
+LTN-M----KIILFL--V----LV------TLA----TCELY-HY-------QEC----VR---------GT-TVLLKEPCSSGT--YEGNSPFHPLADNKFALTCFSTQ-FAFA-CPDGVKHV-YQLR-----ARSVSPKL--F--IRQEEVQEL-YS--PIF------LIIA----AIVF-IT-LCFT-----LKRKTE
+  Score=46
+TQRI--PTTTSGWRFLTQ----I-L-MLTNPSP--KRSESKNQV----VMMLQQHQP-HLR-W-----KM--------S----LNC-----LLSN-SARNALS------KA---V-SP----NVQQA-CLALRT-LWMPFSP-IQRH-KLP-IER-NKSRGD-R---
+   |  |   |    |      | | ||       |   |   |    | |       |   |     |         |    |       |||  |    ||      |    | |     |     |  ||  | |     |    |   |   |      |   
+---IRRP---S----L--YLLLITLLML-----LLK---S---VNFNFV-M------IH--FWVFITTK-TTKVGWKVSSEFTL--VRIIALLS-MS----LSLFLWTLK-ENRVIS-KILGN----SC--LR-IL-M----VI---SK--YI--LN-----IRLLI
+  Score=38
+QGVPIRTHSWLTSLLTK-MPQEK-----VSL---A-------QP-CRVS----VL--E-CSSHLMRILLL---E--S-F-----N-F---CFVRRASVAT--ASVMLLGITTGL---PTLILWTLLRLTL--V--VST--LRAFLRS-S--L----E-VISPQ---S-INTCV----AKTANPLLNL-----L---L-----
+              ||  |   |     | |   |       |  | |     ||  | |||           |  | |     | |   ||    |  |  |              |              |  |    |||  || |  |    | |   |   | |        |  |           |   |     
+--------------LT-NM---KIILFLV-LVTLATCELYHYQ-EC-V-RGTTVLLKEPCSS--------GTYEGNSPFHPLADNKFALTCF----S--TQFA-----------FACP------------DGVKHV--YQLRA--RSVSPKLFIRQEEV---QELYSPI----FLIIA--A------IVFITLCFTLKRKTE
+  Score=45
+SPMLGMTCMIQTCTLSFQKWSLRVLCV---L-LKPWLLAIVA-LAVAKMLMKVSVLLLMALGL-STMITTQI-NLAFI--V-----V-ITILIL----------S-ED--LVS----LF-S-SLSPISNLV-LRW-LW----V-S------CF-----VS-S----------
+         |            |       | |   || |   |     ||      |  | | |        |  |   |     | ||              | |   ||     |  | ||   | |  | | |     | |      |      |  |          
+---------I------------R----RPSLYL---LL-I--TL-----LM------L--L-LKS-------VN--F-NFVMIHFWVFIT----TKTTKVGWKVSSE-FTLV-RIIAL-LSMSL---S-L-FL-WTL-KENRVISKILGNSC-LRILMV-ISKYILNIRLLI
+  Score=38
+SLQTLSCLLSWP-LNELMA-----FSPSLFQP--LVIQKETHG------G----EPSSP---------NH-VIACIP--L--TGYV-------A-ALVVNAC---FYPL----L-FCL----PYSSCRASVCKTL---VLY--VLMLYNF-ILSC--ILVEDTQQPVG-I-----CLMVYCII-LMAIWT----ID---RV---R------FC------LL-------IRSL-RPLIDMR--SNFIR--VNT---V--------AG---GVV---IPVNYSK--PWFVKNFNQRCRC--TNCFFAHS-ATYLECTFISRFSKTTLVSISDFQ---LNGSH-STVF--VP-----FN---SRDSVP-------L---HI------IAPSVLT-V-
+     |   |   ||||       |   ||    | |            |    |             |  |   |   |  |          | |   |     |  |    | | |    |       |  ||   ||   |   |   |     |    |    | |     || |     ||  |     |    |    |      |       ||       |  | |||      |      |     |        ||   |     |     |  |   |          |        |     |  ||    ||   |      | |   |     |      |    ||           |   |       ||   |  | 
+-----S---S--GLNEL--NIILVF---LF--GTL-I------LAMADNGTITVE----ELKKLLEQWN-LV---I-GFLFLT---WICLLQFAYA---N--RNRF--LYIIKLIF-LWLLWP-------V--TLACFVL-AAV---Y--RI---NWI----T----GGIAIAMACL-V----GLM--W-LSYFI-ASFR-LFARTRSMWSF-NPETNILLNVPLHGTI--LTRPL----LES----ELV--IGAVILRGHLRIAGHHLG--RCDI-----KDLP---K--------EIT-------VA-----T--SR----TL---S---YYKL-G--AS---QRV-AGDSGF-AAYSR----YRIGNYKLNTDH-SSSSDNIA---L-LVQ
+  Score=87
+SPMLGMTC-M-IQTCT-LSFQKWSLRVLCVLLKPWLLAIVA-LAVAKM---LMK------VS----VLL-----------------LMALG-----LSTMIT---TQINL-AFI-----V--VITILI--L---SEDLVS--LFSS--------L-SPISN-L-----VLRW---LWVSCFVSS-------
+   |  |  | |     | |       | |      |  |  |  |     |        |     |||                 | |       |    |   ||    ||      |  |       |   |   ||  ||          | |||   |     |      |   ||          
+---L--T-NMKI----IL-F-------L-V------L--V-TL--A--TCEL--YHYQECV-RGTTVLLKEPCSSGTYEGNSPFHPL-A--DNKFAL----TCFSTQ---FAF-ACPDGVKHV-----YQLRARS---VSPKLF--IRQEEVQELYSPI--FLIIAAIV---FITL---CF---TLKRKTE
+  Score=42
+LIRDCTPRL-MT-LVNSIYSLTDIVPQDV-L-ITYLS--VITP--HKW---SPLMMALW-S-------VLVLL--PIKLE-PL----S--YLNPHLNPL-R----KSIQ-PFCLDI-LW-V--------I--IHRP-IGQV---VIST----TR-------LS-SYRMA-VVLFYMH--SIVF---FTLA--HNKIVL-VKQISNPSRFGILLHQTVSLVL--ITKKPH
+     |    |  |      |       | | |  |   | |   |     |     |  |       | |    |     |     |  |         |    ||   |  | | |  |        |  |    ||     | |     |        |  |     ||       |  |   | |   |      |       |        |  ||  |     
+-----T---NM-KL------L-------VFLGI--L-TTV-T-AFH--QECS-----L-QSCAQHQPYV-V--DDP----CP-IHFYSKWY--------IRVGARKS--AP--L-IEL-CVDEVGSKSPIQYI---DIG--NYTV-S-CSPFT-INCQEPKL-GS----LVV-----RCS--FYEDF-L-EYH-----DV-------R--------V--VLDFI-----
+  Score=50
+---L----IRDCTPR-LM-----TLVNSIYSLT---D---I-VP--------QDV--L-I-----T--------Y------LSV-ITPH-K----WSPLMMALWS-V-L---VLLP-----IK-------------LEP--L---SY------L----------NPH----L-N-PLRKS---IQ---PFCLDILW----VI---I---H-RPI-GQVV-------IS-------T--T-R-LSSYRM----AV---VL-----F--YMHS---IVFFTLAH-N-KIVLVKQISNP---SRFG-----IL-LHQTVSLVLITKKPH-
+   |    |       |      ||   |  |    |   | |         |    | |     |        |      |   |    |    |  |   ||  | |   | |      |              |    |   ||      |          ||     | | ||      |    |  |  |     ||   |   | | | |          |        |  | | | ||      |    |      |  |  |   |        | |  |     |    |        |  |     ||        
+SSGLNELNI------IL-VFLFGTL---I--L-AMADNGTITV-EELKKLLEQ--WNLVIGFLFLTWICLLQFAYANRNRFL--YI---IKLIFLW--L---LW-PVTLACFV-L-AAVYRI-NWITGGIAIAMACL--VGLMWLSYFIASFRLFARTRSMWSFNP-ETNILLNVPL---HGTI-LTRP--L--L-ESELVIGAVILRGHLR-IAG---HHLGRCDI-KDLPKEITVATSRTL-SY--YKLGA-SQRV-AGDSGFAAY--SRYRI-------GNYK--L-----N-TDHS---SSSDNI-AL-----LV-------Q
+  Score=71
+SPMLGMTCMIQTCTLSFQ-KWSLRVL-CVLL----K-----PW-L-LAIVA-----LAVAKML--MK---VS------VL-L------LMA-LG--LSTMITTQINL--AFIVVI--TILIL-S-EDLVSL--FSS-LS-PISNL-V----LRW-----LWVSC---FVSS-----
+             |     |     | |  |    |     |  | |  |      |||      |    |       |  |      |   ||  ||        |  |       |   | | ||      |   |  ||    |    |       |       ||       
+-------------T----NK-----LKC--LIMDPKTNEMHP-ALRL--V-DPQIQLAV----TRM-ENAV-EHDQNNV-GLKVYPIIL--RLGSPLS--------LNMA-----RKT---LNSLED----KAF--RL-IPI---AVQMTKL--ATTEEL----PDEFV--VVTVK
+  Score=38
+SP--M-L----GMTCMIQ-TCTLS---F-QKW--SLRVL--C------VLLK---P--------WLLA-IVALA-V-AKMLM-KVSVLLLMA-LG--L------STM---ITTQ-INLAF-IV----VI-----TILI------L-SEDLV---SLFSSLSPISN----L----VLRWLWVSCFVSS----
+    | |    |    |  | |     | |    |   |  |      |      |        |    |     | |     | |     | |   |      |     |  | |     |     |      |  |      | |  ||   | |            |    | |   |   |      
+--TNMKLLVFLG----I-LT-T--VTAFHQ--ECS---LQSCAQHQPYV---VDDPCPIHFYSKW---YI----RVGA----RK-S-----APL-IELCVDEVGS--KSPI--QYI----DI-GNYTV-SCSPFT--INCQEPKLGS--LVVRCS-F--------YEDFLEYHDV-R---V---V--LDFI
+  Score=41
+QGVPIRTHSWLTSL--LTK---M-PQEKVSLAQPCRVSVL--ECSS-H--LMRILLLESFNFCFVRR------ASVAT----ASVMLLGITT-------GL---PTLI-LWT-L---LR-L-----TLVV-STLR---AFLRSSLEVISPQSINTCVAK---TANPLLNL-L-----L----------
+           |    | |   | |  |              |    |  | |   |       |        | | |    | |              ||   |  | |   |   |  |     ||   | |    || |  |  | |  |    |    |        |     |          
+-----------T--NKL-KCLIMDP--K------------TNE---MHPAL-R---L-------V--DPQIQLA-V-TRMENA-V-------EHDQNNVGLKVYP--IIL--RLGSPL-SLNMARKTL--NS-L-EDKAF-R--L--I-P--I----A-VQMT-------KLATTEELPDEFVVVTVK
+  Score=40
+LTNF------MDYVS---------L-LNQVWQK--QVNSS-QEGTLAPVRPTYAYRP----V---QGN---LQC---PIKWRCIYTFAGYT---GTATE-PTKVLAKQEA----ARKVC-LR--LQEYGRLDG--FGLRLRYS-------T--AF--EHNRY---DASKSY-FYTQ---TSSSSHE--
+ ||       ||            | |  |     |     |   || |  |   |     |   | |   |     ||    |          |     |   |         |||   |   | |    |   |  ||          |  |   |       |      |      |        
+-TN-KLKCLIMD---PKTNEMHPALRL--V---DPQ----IQ---LA-V--T---R-MENAVEHDQ-NNVGL--KVYPI----I-------LRLG----SP---L-----SLNMARK--TL-NSL-E----D-KAF--RL---IPIAVQMTKLA-TTE----ELPD-----EF---VVVT------VK
+  Score=40
+QGVPIRTH--SWLTS-LLTKMPQEKVSLAQPCRVSV--LECSSHLMRILLLE-SF-NFC-FVRRASVATASVMLLGIT------TGLPTLILW-TLLRLTL-V---VS---TL-R--AFLR-S-SL--------E--VISPQS-I--NT-C-----VA--KTANPL--LNL--LL-
+    ||    | |   ||         |          |     ||  |||  |  ||  |          ||   |       |   |     |    |  |   ||   || |  | |  | ||        |  ||   | |  |  |     |   |       ||   || 
+----IR--RPS-L--YLL---------L--------ITL-----LM--LLL-KS-VNF-NF----------VM---I-HFWVFIT---T----KT----T-KVGWKVSSEFTLVRIIA-L-LSMSLSLFLWTLKENRVI---SKILGN-SCLRILMV-ISK-----YILN-IRLLI
+  Score=48
+LIRDCTPRLMTLVNS--IYSLTDIVPQDVLITY-LSVI--TPHKWSPLMMA---LWS------VL----VLLPIKLEPL-S---YL--N-P-HLNPLR---K------SI-QPF---CLDILWVIIHRPI-GQV--VISTTRLSSY--RMAV--V---LF---------YMHS-IVFFTL--AHNK-IVLVKQISNPSRFGILLHQTVSLVLI--T-K-KPH--
+        | |  |   |     |     |    | |   |      |  |   |        |     |||  | ||  |   |   | | |  ||    |      |  | |   |          |  | |  |        |  | |   |   ||         |  | |  | |  |    |  |        | |    |    |   | | |    
+--------L-T--N-MKI-----I-----L---FL-V-LVT------L--ATCEL--YHYQECV-RGTTVLL--K-EP-CSSGTY-EGNSPFH--PL-ADNKFALTCFS-TQ-FAFAC----------P-DG-VKHV--------YQLR-A-RSVSPKLFIRQEEVQELY--SPI--F-LIIA---AI--V--------F-I----T----L-CFTLKRK--TE
+  Score=56
+LIRDCTPRLMTLVN-SI-YSLTDIVPQDVLITYLSVITPHKWSPLMMALWSV-LVLLPIKLEPLSYL-NPHL-NPLRKSIQPFCLDILWVI-IHRPIGQV--V-ISTTRL---------SSY-----RM--AVVLFY--MHSIVF---F--TLAHNKIVL---VKQIS----NPS--RFGILLHQT-V-S---LV---L-ITKKPH
+ ||    |       |  | |        |   |  ||      |   |    | ||  |    |   |    |        |      |  ||        | | ||           ||      |   |  |    | |      |  ||   |      |  ||    | |  |  | |    | |   |    | |     
+-IR----R------PS-LY-L--------L---L--IT------L---L---ML-LL--K----S--VN---FN--------F------V-MIH------FWVFI-TT--KTTKVGWKVSS-EFTLVR-IIA--L--LSM-S---LSLFLWTL---K---ENRV--ISKILGN-SCLR--I-L---MVISKYIL-NIRLLI-----
+  Score=51
+---L---IR-DC--T----PR-LMT-LVNSIYSLTDIVPQDVLITY-LS-VITPHKWSPLM-M--ALWSVL------VL-L---PIK-LEP-L-SYLNPHLNP-L---RK---SIQPFCL-DI----LWVIIHRPIGQVVISTTRLSSYRMAVVLFY-MHSIVFFT-LAHNKIV----LVKQISNPSR--FGILLHQTVSLVLI-TK-KPH
+   |   |  |   |    |  |   ||       |  ||   |   |  | |         |  |   |       |  |   ||  |   | |   | |   |   ||   |     | |     |   |  |     |          | |    |      | ||         |      |    |       |  |   |  |  
+TNKLKCLI-MD-PKTNEMHP-AL--RLV-------D--PQ---I--QL-AV-T--------RMENA---V-EHDQNNV-GLKVYPI-IL--RLGS---P-L--SLNMARKTLNS-----LED-KAFRL---I--P-----I----------A-V---QM------TKLA-----TTEEL------P--DEF-------V--V--VT-VK--
+  Score=50
+LTNFMDYVS---L-LNQVWQKQ-VNSSQEGTLAPVRPT---YA-YRPVQGNLQ-CPIKW-RCIYTFAGYTGTAT----EP----TKV---------LA--K--------QE-A-AR-----K-VC--LRLQEYG-R-----LDGFGL-R------LRYSTA--FEHNRYD---ASKSY---FY-TQ---TSSSSH-----E
+||| |       | |  |     |      |||    |   |  |       | |     |         || |    ||    |           ||  |        |  | |      | |   ||      |     |  |   |      | ||    |         |       |  |    |          |
+LTN-M----KIILFL--V----LV------TLA----TCELY-HY-------QEC----VR---------GT-TVLLKEPCSSGT--YEGNSPFHPLADNKFALTCFSTQ-FAFA-CPDGVKHV-YQLR-----ARSVSPKL--F--IRQEEVQEL-YS--PIF------LIIA----AIVF-IT-LCFT-----LKRKTE
+  Score=46
+TQRI--PTTTSGWRFLTQ----I-L-MLTNPSP--KRSESKNQV----VMMLQQHQP-HLR-W-----KM--------S----LNC-----LLSN-SARNALS------KA---V-SP----NVQQA-CLALRT-LWMPFSP-IQRH-KLP-IER-NKSRGD-R---
+   |  |   |    |      | | ||       |   |   |    | |       |   |     |         |    |       |||  |    ||      |    | |     |     |  ||  | |     |    |   |   |      |   
+---IRRP---S----L--YLLLITLLML-----LLK---S---VNFNFV-M------IH--FWVFITTK-TTKVGWKVSSEFTL--VRIIALLS-MS----LSLFLWTLK-ENRVIS-KILGN----SC--LR-IL-M----VI---SK--YI--LN-----IRLLI
+  Score=38
+QGVPIRTHSWLTSLLTK-MPQEK-----VSL---A-------QP-CRVS----VL--E-CSSHLMRILLL---E--S-F-----N-F---CFVRRASVAT--ASVMLLGITTGL---PTLILWTLLRLTL--V--VST--LRAFLRS-S--L----E-VISPQ---S-INTCV----AKTANPLLNL-----L---L-----
+              ||  |   |     | |   |       |  | |     ||  | |||           |  | |     | |   ||    |  |  |              |              |  |    |||  || |  |    | |   |   | |        |  |           |   |     
+--------------LT-NM---KIILFLV-LVTLATCELYHYQ-EC-V-RGTTVLLKEPCSS--------GTYEGNSPFHPLADNKFALTCF----S--TQFA-----------FACP------------DGVKHV--YQLRA--RSVSPKLFIRQEEV---QELYSPI----FLIIA--A------IVFITLCFTLKRKTE
+  Score=45
+SPMLGMTCMIQTCTLSFQKWSLRVLCV---L-LKPWLLAIVA-LAVAKMLMKVSVLLLMALGL-STMITTQI-NLAFI--V-----V-ITILIL----------S-ED--LVS----LF-S-SLSPISNLV-LRW-LW----V-S------CF-----VS-S----------
+         |            |       | |   || |   |     ||      |  | | |        |  |   |     | ||              | |   ||     |  | ||   | |  | | |     | |      |      |  |          
+---------I------------R----RPSLYL---LL-I--TL-----LM------L--L-LKS-------VN--F-NFVMIHFWVFIT----TKTTKVGWKVSSE-FTLV-RIIAL-LSMSL---S-L-FL-WTL-KENRVISKILGNSC-LRILMV-ISKYILNIRLLI
+  Score=38
+SLQTLSCLLSWP-LNELMA-----FSPSLFQP--LVIQKETHG------G----EPSSP---------NH-VIACIP--L--TGYV-------A-ALVVNAC---FYPL----L-FCL----PYSSCRASVCKTL---VLY--VLMLYNF-ILSC--ILVEDTQQPVG-I-----CLMVYCII-LMAIWT----ID---RV---R------FC------LL-------IRSL-RPLIDMR--SNFIR--VNT---V--------AG---GVV---IPVNYSK--PWFVKNFNQRCRC--TNCFFAHS-ATYLECTFISRFSKTTLVSISDFQ---LNGSH-STVF--VP-----FN---SRDSVP-------L---HI------IAPSVLT-V-
+     |   |   ||||       |   ||    | |            |    |             |  |   |   |  |          | |   |     |  |    | | |    |       |  ||   ||   |   |   |     |    |    | |     || |     ||  |     |    |    |      |       ||       |  | |||      |      |     |        ||   |     |     |  |   |          |        |     |  ||    ||   |      | |   |     |      |    ||           |   |       ||   |  | 
+-----S---S--GLNEL--NIILVF---LF--GTL-I------LAMADNGTITVE----ELKKLLEQWN-LV---I-GFLFLT---WICLLQFAYA---N--RNRF--LYIIKLIF-LWLLWP-------V--TLACFVL-AAV---Y--RI---NWI----T----GGIAIAMACL-V----GLM--W-LSYFI-ASFR-LFARTRSMWSF-NPETNILLNVPLHGTI--LTRPL----LES----ELV--IGAVILRGHLRIAGHHLG--RCDI-----KDLP---K--------EIT-------VA-----T--SR----TL---S---YYKL-G--AS---QRV-AGDSGF-AAYSR----YRIGNYKLNTDH-SSSSDNIA---L-LVQ
+  Score=87
+SPMLGMTC-M-IQTCT-LSFQKWSLRVLCVLLKPWLLAIVA-LAVAKM---LMK------VS----VLL-----------------LMALG-----LSTMIT---TQINL-AFI-----V--VITILI--L---SEDLVS--LFSS--------L-SPISN-L-----VLRW---LWVSCFVSS-------
+   |  |  | |     | |       | |      |  |  |  |     |        |     |||                 | |       |    |   ||    ||      |  |       |   |   ||  ||          | |||   |     |      |   ||          
+---L--T-NMKI----IL-F-------L-V------L--V-TL--A--TCEL--YHYQECV-RGTTVLLKEPCSSGTYEGNSPFHPL-A--DNKFAL----TCFSTQ---FAF-ACPDGVKHV-----YQLRARS---VSPKLF--IRQEEVQELYSPI--FLIIAAIV---FITL---CF---TLKRKTE
+  Score=42
+LIRDCTPRL-MT-LVNSIYSLTDIVPQDV-L-ITYLS--VITP--HKW---SPLMMALW-S-------VLVLL--PIKLE-PL----S--YLNPHLNPL-R----KSIQ-PFCLDI-LW-V--------I--IHRP-IGQV---VIST----TR-------LS-SYRMA-VVLFYMH--SIVF---FTLA--HNKIVL-VKQISNPSRFGILLHQTVSLVL--ITKKPH
+     |    |  |      |       | | |  |   | |   |     |     |  |       | |    |     |     |  |         |    ||   |  | | |  |        |  |    ||     | |     |        |  |     ||       |  |   | |   |      |       |        |  ||  |     
+-----T---NM-KL------L-------VFLGI--L-TTV-T-AFH--QECS-----L-QSCAQHQPYV-V--DDP----CP-IHFYSKWY--------IRVGARKS--AP--L-IEL-CVDEVGSKSPIQYI---DIG--NYTV-S-CSPFT-INCQEPKL-GS----LVV-----RCS--FYEDF-L-EYH-----DV-------R--------V--VLDFI-----
+  Score=50
+---L----IRDCTPR-LM-----TLVNSIYSLT---D---I-VP--------QDV--L-I-----T--------Y------LSV-ITPH-K----WSPLMMALWS-V-L---VLLP-----IK-------------LEP--L---SY------L----------NPH----L-N-PLRKS---IQ---PFCLDILW----VI---I---H-RPI-GQVV-------IS-------T--T-R-LSSYRM----AV---VL-----F--YMHS---IVFFTLAH-N-KIVLVKQISNP---SRFG-----IL-LHQTVSLVLITKKPH-
+   |    |       |      ||   |  |    |   | |         |    | |     |        |      |   |    |    |  |   ||  | |   | |      |              |    |   ||      |          ||     | | ||      |    |  |  |     ||   |   | | | |          |        |  | | | ||      |    |      |  |  |   |        | |  |     |    |        |  |     ||        
+SSGLNELNI------IL-VFLFGTL---I--L-AMADNGTITV-EELKKLLEQ--WNLVIGFLFLTWICLLQFAYANRNRFL--YI---IKLIFLW--L---LW-PVTLACFV-L-AAVYRI-NWITGGIAIAMACL--VGLMWLSYFIASFRLFARTRSMWSFNP-ETNILLNVPL---HGTI-LTRP--L--L-ESELVIGAVILRGHLR-IAG---HHLGRCDI-KDLPKEITVATSRTL-SY--YKLGA-SQRV-AGDSGFAAY--SRYRI-------GNYK--L-----N-TDHS---SSSDNI-AL-----LV-------Q
+  Score=71
+SPMLGMTCMIQTCTLSFQ-KWSLRVL-CVLL----K-----PW-L-LAIVA-----LAVAKML--MK---VS------VL-L------LMA-LG--LSTMITTQINL--AFIVVI--TILIL-S-EDLVSL--FSS-LS-PISNL-V----LRW-----LWVSC---FVSS-----
+             |     |     | |  |    |     |  | |  |      |||      |    |       |  |      |   ||  ||        |  |       |   | | ||      |   |  ||    |    |       |       ||       
+-------------T----NK-----LKC--LIMDPKTNEMHP-ALRL--V-DPQIQLAV----TRM-ENAV-EHDQNNV-GLKVYPIIL--RLGSPLS--------LNMA-----RKT---LNSLED----KAF--RL-IPI---AVQMTKL--ATTEEL----PDEFV--VVTVK
+  Score=38
+SP--M-L----GMTCMIQ-TCTLS---F-QKW--SLRVL--C------VLLK---P--------WLLA-IVALA-V-AKMLM-KVSVLLLMA-LG--L------STM---ITTQ-INLAF-IV----VI-----TILI------L-SEDLV---SLFSSLSPISN----L----VLRWLWVSCFVSS----
+    | |    |    |  | |     | |    |   |  |      |      |        |    |     | |     | |     | |   |      |     |  | |     |     |      |  |      | |  ||   | |            |    | |   |   |      
+--TNMKLLVFLG----I-LT-T--VTAFHQ--ECS---LQSCAQHQPYV---VDDPCPIHFYSKW---YI----RVGA----RK-S-----APL-IELCVDEVGS--KSPI--QYI----DI-GNYTV-SCSPFT--INCQEPKLGS--LVVRCS-F--------YEDFLEYHDV-R---V---V--LDFI
+  Score=41
+QGVPIRTHSWLTSL--LTK---M-PQEKVSLAQPCRVSVL--ECSS-H--LMRILLLESFNFCFVRR------ASVAT----ASVMLLGITT-------GL---PTLI-LWT-L---LR-L-----TLVV-STLR---AFLRSSLEVISPQSINTCVAK---TANPLLNL-L-----L----------
+           |    | |   | |  |              |    |  | |   |       |        | | |    | |              ||   |  | |   |   |  |     ||   | |    || |  |  | |  |    |    |        |     |          
+-----------T--NKL-KCLIMDP--K------------TNE---MHPAL-R---L-------V--DPQIQLA-V-TRMENA-V-------EHDQNNVGLKVYP--IIL--RLGSPL-SLNMARKTL--NS-L-EDKAF-R--L--I-P--I----A-VQMT-------KLATTEELPDEFVVVTVK
+  Score=40
+LTNF------MDYVS---------L-LNQVWQK--QVNSS-QEGTLAPVRPTYAYRP----V---QGN---LQC---PIKWRCIYTFAGYT---GTATE-PTKVLAKQEA----ARKVC-LR--LQEYGRLDG--FGLRLRYS-------T--AF--EHNRY---DASKSY-FYTQ---TSSSSHE--
+ ||       ||            | |  |     |     |   || |  |   |     |   | |   |     ||    |          |     |   |         |||   |   | |    |   |  ||          |  |   |       |      |      |        
+-TN-KLKCLIMD---PKTNEMHPALRL--V---DPQ----IQ---LA-V--T---R-MENAVEHDQ-NNVGL--KVYPI----I-------LRLG----SP---L-----SLNMARK--TL-NSL-E----D-KAF--RL---IPIAVQMTKLA-TTE----ELPD-----EF---VVVT------VK
+  Score=40
