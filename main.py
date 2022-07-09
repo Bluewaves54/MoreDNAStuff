@@ -1,37 +1,42 @@
-from Bio.pairwise2 import format_alignment, align
-from ClassGenome import Genome
+import time
+from CompareGenomes import compareGenomes
+from ClassGenome import Genome, flatten, amino_acids, stop_codons
+from ClassGenome import flatten
 from os import listdir
-from itertools import combinations
+from collections import Counter
+from matplotlib import pyplot as plt
 
-def compareMultipleGenomes(dirpath):
+
+def getGenomesFromeDir(dirpath):
     fasta_files = [file for file in listdir(dirpath) if file.endswith('fasta')]
-    print(fasta_files)
     genomes = [Genome(file_path=f'{dirpath}/{i}') for i in fasta_files]
-    for i in genomes:
-        i.get_protein_seqs(min_length=100, start_codon=False)
 
-    genome_pairings = list(combinations(genomes, 2))
+def alignProteinGene(protein, gene):
+    print(*list(protein), sep='\t')
+    print(*[gene[i:i + 3] for i in range(0, len(gene), 3)])
 
-    genome_score_avgs = []
-    for genome1, genome2 in genome_pairings:
-        print(genome1.name, genome2.name)
-        scores = []
-        for i, seq in enumerate(genome1.protein_seqs):
-            for j, seq2 in enumerate(genome2.protein_seqs[i::]):
-                alignment = align.globalxx(seq, seq2)
-                scores.append(alignment)
-        top_scores = []
-
-        for i in range(len(genome1.protein_seqs)):
-            top_scores.append(max(scores, key=lambda x: x[0][2] / len(x[0][1])))
-            scores.remove(max(scores, key=lambda x: x[0][2] / len(x[0][1])))
-
-        avg_score = sum([i[0][2] / len(i[0][1]) for i in top_scores]) / len(top_scores)
-        genome_score_avgs.append((genome1, genome2, avg_score))
-
-        with open(f'alignments/{genome1.name}x{genome2.name}.txt', 'a') as file:
-            file.writelines([format_alignment(*i[0]) for i in top_scores])
-        print(genome_score_avgs)
+def separateGenomeIntoCodons(gene):
+    return flatten([[gene[i + j:i + j + 3] for i in range(0, len(gene), 3)] for j in range(3)])
 
 
-compareMultipleGenomes('SARS-class')
+if __name__ == "__main__":
+    # start = time.perf_counter()
+    # print(*compareGenomes('TEST_DIR'), sep='\n')
+    # print(f'Finished in {time.perf_counter() - start} seconds')
+    sars_spike_protein = 'LEKTTELLFLVMFLLTTKRTMFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT'
+    print(sars_spike_protein.find('PRRA'))
+    # genome = Genome(file_path='SARS-class/SARS-2020.fasta')
+    # genome.get_genes(rfmode=3, min_length=100)
+    # special_codons = 'CCU CGG CGG GCA'.split(' ')
+    # cgg = special_codons[1]
+    # sars_spike_protein_gene = [i for i in genome.genes if i[0] == sars_spike_protein][0]
+    # alignProteinGene(*sars_spike_protein_gene)
+    # codons = separateGenomeIntoCodons(genome.genome)
+    # real_amino_acids = [i for i in codons if i not in stop_codons and len(i) == 3]
+    # frequencies = {codon: frequency / len(real_amino_acids) * 100 for codon, frequency in dict(Counter(real_amino_acids)).items()}
+    # print(frequencies)
+    # r_frequencies = {key: value for key, value in frequencies.items() if amino_acids[key] == 'R'}
+    # print(dict(sorted(r_frequencies.items(), key=lambda item: item[1])))
+    # print(separateGenomeIntoCodons(genome.genome))
+
+

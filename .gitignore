@@ -1,3 +1,14 @@
 .idea
-circled_frame.gz
+covidVariantSequenceAlignment.txt
 pangolin-gisaid.fasta
+analyzeProteins.py
+randNuclSeq.py
+delta.fasta
+omicron.fasta
+SARS2.fasta
+spikeProteins.afa
+spikeProteinAlignments.aln
+spikeProteinSeqs.fasta
+BA5.fasta
+covidVariantComparison.fasta
+covidVariantAlignments.txt
