@@ -1,4 +1,7 @@
 .idea
+alignments
+proteins
+TEST_DIR
 covidVariantSequenceAlignment.txt
 pangolin-gisaid.fasta
 analyzeProteins.py
@@ -12,6 +15,3 @@ spikeProteinSeqs.fasta
 BA5.fasta
 covidVariantComparison.fasta
 covidVariantAlignments.txt
-alignments
-proteins
-TEST_DIR
