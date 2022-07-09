@@ -12,3 +12,6 @@ spikeProteinSeqs.fasta
 BA5.fasta
 covidVariantComparison.fasta
 covidVariantAlignments.txt
+alignments
+proteins
+TEST_DIR
